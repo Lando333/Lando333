@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Lando333
-- 👀 I’m interested in game dev and learning more about programming.
-- 🌱 I’m currently learning c#, unity.
-- 💞️ I’m looking to collaborate on video games.
-- 📫 Reach me on twitter @LandosLair
+- Heyo, I’m Lando
+- I’m improving my skills in game dev and software/web development.
+- I’m currently learning c#, unity, javascript, ubuntu, python.
+
+- Check out my itch!
+-     https://landos-lair.itch.io
+- Reach me on twitter @LandosLair
 -     https://twitter.com/LandosLair
 
 <!---
