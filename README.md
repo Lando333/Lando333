@@ -1,10 +1,15 @@
 - Heyo, I’m Lando
-- I’m improving my skills in game dev and software/web development.
-- I’m currently learning c#, unity, javascript, ubuntu, python.
-
+- Currently improving my skills in software/web development and game dev
+- I’m currently learning from Fullstack Academy and Harvard edX
+- 
+- Proficiency with:
+-   c#, unity, javascript, github, 
+- Currently learning:
+-   node.js, html, css
+- 
 - Check out my itch!
 -     https://landos-lair.itch.io
-- Reach me on twitter @LandosLair
+- Reach me on twitter @LandosLair 
 -     https://twitter.com/LandosLair
 
 <!---
