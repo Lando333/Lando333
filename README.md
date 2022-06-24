@@ -3,9 +3,9 @@
 - I’m currently learning from Fullstack Academy and Harvard edX
 - 
 - Proficiency with:
--   c#, unity, javascript,
+- -c#, unity, javascript,
 - Currently learning:
--   node.js, html, css
+- -node.js, html, css
 - 
 - Check out my itch!
 -     https://landos-lair.itch.io
