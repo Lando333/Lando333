@@ -3,7 +3,7 @@
 - I’m currently learning from Fullstack Academy and Harvard edX
 - 
 - Proficiency with:
--   c#, unity, javascript, github, 
+-   c#, unity, javascript,
 - Currently learning:
 -   node.js, html, css
 - 
