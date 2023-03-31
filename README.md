@@ -9,8 +9,6 @@
 -
 - Check out my itch!
 -     https://landos-lair.itch.io
-- Reach me on twitter @LandosLair 
--     https://twitter.com/LandosLair
 
 <!---
 Lando333/Lando333 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
