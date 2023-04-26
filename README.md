@@ -1,11 +1,11 @@
-- Heyo, I’m Lando
-- Currently improving my skills in software engineering and game development
+- Hey, I’m Lando
+- Currently improving my skills in software engineering
 - 
 - Proficiency with:
 - - c#, unity, ableton, aseprite
 -
 - Currently learning:
-- - javascript, html, css
+- - javascript, React.js, html, css
 -
 - Check out my itch!
 -     https://landos-lair.itch.io
