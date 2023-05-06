@@ -2,10 +2,12 @@
 - Currently improving my skills in software engineering
 - 
 - Proficiency with:
-- - c#, unity, ableton, aseprite
+- - C#, Unity
+- - JavaScript, React
+- - html, css
 -
 - Currently learning:
-- - javascript, React.js, html, css
+- - Python
 -
 - Check out my itch!
 -     https://landos-lair.itch.io
