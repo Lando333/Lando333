@@ -5,9 +5,10 @@
 - - C#, Unity
 - - JavaScript, React
 - - html, css
--
+- - Python, SQL, SQLite
+- 
 - Currently learning:
-- - Python
+- - SQLAlchemy, Flask
 -
 - Check out my itch!
 -     https://landos-lair.itch.io
