@@ -13,7 +13,7 @@
 🌟 Achievements:
 
     - Successfully participated in multiple game jams 
-    - Team Ranked #1 for Design and #2 Overall in Game Dev Field Guide Game Jam #17
+    - Ranked #1 for Design and #2 Overall in Game Dev Field Guide Game Jam #17
     - Completed a Full Stack Software Engineer bootcamp (Flatiron School)
 
 🎮 Explore my projects on itch.io.
