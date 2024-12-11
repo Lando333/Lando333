@@ -5,14 +5,16 @@
 💼 Proficient in:
 
     - JavaScript, React
-    - C#, Unity (2 years of experience)
-    - HTML, CSS
     - Python, Flask
+    - HTML, CSS
     - SQL, SQLite, SQLAlchemy
+    - C#, Unity
+    - GDScript, Godot
+    - Terraform, AWS
 
 🌟 Achievements:
 
-    - Successfully participated in multiple game jams 
+    - Successfully participated in multiple game jams
     - Ranked #1 for Design and #2 Overall in Game Dev Field Guide Game Jam #17
     - Completed a Full Stack Software Engineer bootcamp (Flatiron School)
 
