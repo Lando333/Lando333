@@ -4,17 +4,16 @@
 
 💼 Proficient in:
 
-    - JavaScript, React
+    - GDScript // Godot
+    - Terraform // AWS
+    - C# // Unity
     - Python, Flask
+    - JavaScript, React
     - HTML, CSS
     - SQL, SQLite, SQLAlchemy
-    - C#, Unity
-    - GDScript, Godot
-    - Terraform, AWS
 
 🌟 Achievements:
 
-    - Successfully participated in multiple game jams
     - Ranked #1 for Design and #2 Overall in Game Dev Field Guide Game Jam #17
     - Completed a Full Stack Software Engineer bootcamp (Flatiron School)
 
