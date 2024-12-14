@@ -4,8 +4,8 @@
 
 💼 Proficient in:
 
-    - GDScript // Godot
     - Terraform // AWS
+    - GDScript // Godot
     - C# // Unity
     - Python, Flask
     - JavaScript, React
