@@ -1,4 +1,4 @@
-👋 Hi, I'm Ryan (also known as Lando).
+👋 Hi, I'm Lando.
 
 💼 Proficiency:
 
