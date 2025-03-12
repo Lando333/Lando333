@@ -5,7 +5,8 @@
     -☁️ Terraform // AWS
     -🎮 GDScript // Godot
     -🎮 C# // Unity
-    -🎮 Python, Flask
+    -🎮 C++ // Unreal Engine
+    -🖥️ Python, Flask
     -🖥️ JavaScript, React
     -🖥️ HTML, CSS
     -🖥️ SQL, SQLite, SQLAlchemy
