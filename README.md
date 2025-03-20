@@ -14,8 +14,8 @@
 🌟 Achievements:
 
     - Active IRS Public Trust
+    - 1+ years experience as Cloud Engineer
     - Completed a Full Stack Software Engineer bootcamp (Flatiron School)
-    - Completed Cloud Infrastructure Engineer bootcamp (Smoothstack)
     - Ranked #1 for Design and #2 Overall in Game Dev Field Guide Game Jam #17!
 
 🎮 Take a gander.
