@@ -14,6 +14,7 @@
 🌟 Achievements:
 
     - Active IRS Public Trust
+    - Terraform Associate Certification (003)
     - 1+ years experience as Cloud Engineer
     - Completed a Full Stack Software Engineer bootcamp (Flatiron School)
     - Ranked #1 for Design and #2 Overall in Game Dev Field Guide Game Jam #17!
